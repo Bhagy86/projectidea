@@ -1,4 +1,4 @@
-# Project Title: EduAssist
+# EduAssist
 
 ## Summary
 Description: 
