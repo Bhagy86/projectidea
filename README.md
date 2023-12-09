@@ -1,5 +1,4 @@
-# Project Title
-My project idea EduAssist
+# Project Title: EduAssist
 
 ## Summary
 Description: 
