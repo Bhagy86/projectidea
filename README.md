@@ -1,5 +1,6 @@
-## Summary
 # EduAssist
+
+## Summary
 Description: 
 EduAssist is an AI-driven educational support platform aimed at providing personalized learning recommendations and resources to students. It utilizes machine learning to analyze students' learning styles, preferences, and academic performance, offering tailored study plans, practice materials, and interactive content to enhance the learning experience.
 
